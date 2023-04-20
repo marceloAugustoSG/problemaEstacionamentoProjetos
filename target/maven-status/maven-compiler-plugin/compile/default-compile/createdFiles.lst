@@ -1,0 +1,6 @@
+com\mycompany\estacionamento\model\Estacionamento.class
+com\mycompany\estacionamento\businnes\ICalculoTarifa.class
+com\mycompany\estacionamento\model\Cliente.class
+com\mycompany\estacionamento\Main.class
+com\mycompany\estacionamento\model\VeiculoEstacionado.class
+com\mycompany\estacionamento\model\Vaga.class
